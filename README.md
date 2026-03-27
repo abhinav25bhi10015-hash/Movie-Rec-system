@@ -1,4 +1,4 @@
-# Cinematch AI: Hybrid Movie Recommendation System
+# MovieMind AI: Hybrid Movie Recommendation System
 
 A sophisticated Machine Learning application built with **Python** and **Streamlit** that provides personalized movie suggestions by combining **Content-Based Filtering** with **Statistical Popularity** metrics.
 
